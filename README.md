@@ -2,7 +2,9 @@
 ## Francisco Carrillo-Perez
 ### Python Granada  - 03/05/2019
 
-Introduction to Deep Learning using Pytorch. We will dive into Convolutional Neural Networks and Generative Adversarial Networls.
+---
+
+Introduction to Deep Learning using Pytorch. We will dive into Convolutional Neural Networks and Generative Adversarial Networks.
 
 ## 01. Tensors and GPU
 Concepts about tensors and how to execute code on the GPU.
@@ -12,13 +14,13 @@ Concepts about tensors and how to execute code on the GPU.
 
 ## 02. Convolutional Neural Networks
 
-Introduction to how to code a Convolutional Neural Network with Pytorch and run it on GPU. MNIST dataset has been used as a toy example.
+Introduction on  how to code a Convolutional Neural Network with Pytorch and run it on GPU. MNIST dataset has been used as a toy example.
 
 [02_ConvolutionalNeuralNetwork.ipynb](https://github.com/pacocp/Pytorch-TallerPythonGranada/blob/master/02_ConvolutionalNeuralNetwork.ipynb) [(colab)](https://colab.research.google.com/github/pacocp/Pytorch-TallerPythonGranada/blob/master/02_ConvolutionalNeuralNetwork.ipynb)
 
 
 ## 03. Generative Adversarial Networks
 
-Introduction to how to code a Generatve Adversarial  Network with Pytorch and run it on GPU. MNIST dataset has been used as a toy example.
+Introduction to how to code a Generative Adversarial Network with Pytorch and run it on GPU. MNIST dataset has been used as a toy example.
 
 [03_GenerativeAdversarialNetworks.ipynb](https://github.com/pacocp/Pytorch-TallerPythonGranada/blob/master/03_GenerativeAdversarialNetworks.ipynb) [(colab)](https://colab.research.google.com/github/pacocp/Pytorch-TallerPythonGranada/blob/master/03_GenerativeAdversarialNetworks.ipynb)
